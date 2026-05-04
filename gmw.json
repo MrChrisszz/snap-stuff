@@ -1,9 +1,503 @@
--category1
-word1
-word2
--category2
-word329
-wordabc
-hello
--category3
-hihru
+-animals
+dog
+cat
+lion
+tiger
+elephant
+giraffe
+zebra
+bear
+wolf
+fox
+rabbit
+deer
+kangaroo
+koala
+panda
+monkey
+gorilla
+chimpanzee
+horse
+cow
+pig
+sheep
+goat
+chicken
+duck
+goose
+eagle
+hawk
+falcon
+owl
+parrot
+penguin
+shark
+whale
+dolphin
+octopus
+crab
+lobster
+snake
+lizard
+frog
+toad
+turtle
+alligator
+crocodile
+hamster
+guinea pig
+ferret
+hedgehog
+otter
+-countries
+united states
+canada
+mexico
+brazil
+argentina
+chile
+peru
+colombia
+united kingdom
+france
+germany
+italy
+spain
+portugal
+netherlands
+belgium
+sweden
+norway
+finland
+denmark
+poland
+greece
+turkey
+russia
+china
+japan
+south korea
+north korea
+india
+pakistan
+bangladesh
+indonesia
+philippines
+vietnam
+thailand
+australia
+new zealand
+egypt
+south africa
+nigeria
+kenya
+morocco
+saudi arabia
+united arab emirates
+israel
+iran
+iraq
+ukraine
+czech republic
+hungary
+-objects
+chair
+table
+desk
+lamp
+phone
+computer
+keyboard
+mouse
+monitor
+television
+remote control
+book
+notebook
+pen
+pencil
+eraser
+backpack
+wallet
+keys
+clock
+watch
+mirror
+door
+window
+bed
+pillow
+blanket
+sofa
+shelf
+cabinet
+refrigerator
+microwave
+oven
+toaster
+fan
+heater
+air conditioner
+bottle
+cup
+plate
+fork
+spoon
+knife
+scissors
+tape
+glue
+ruler
+calculator
+camera
+-food
+pizza
+burger
+hot dog
+sandwich
+taco
+burrito
+pasta
+spaghetti
+lasagna
+rice
+fried rice
+chicken
+fried chicken
+steak
+fish
+salmon
+shrimp
+egg
+omelette
+pancakes
+waffles
+toast
+cereal
+milk
+cheese
+yogurt
+apple
+banana
+orange
+grape
+strawberry
+blueberry
+watermelon
+pineapple
+mango
+carrot
+broccoli
+potato
+french fries
+soup
+salad
+ice cream
+cake
+cookie
+donut
+chocolate
+candy
+popcorn
+chips
+-media
+movie
+tv show
+music
+podcast
+news
+radio
+magazine
+newspaper
+comic book
+animation
+documentary
+short film
+web series
+streaming video
+live stream
+music video
+talk show
+game show
+reality show
+drama series
+action movie
+comedy movie
+horror movie
+science fiction movie
+fantasy movie
+romance movie
+thriller movie
+cartoon
+anime
+sitcom
+soap opera
+interview show
+educational video
+review video
+vlog
+blog
+article
+editorial
+press release
+trailer
+teaser
+soundtrack
+album
+single
+playlist
+audiobook
+ebook
+newsletter
+broadcast
+channel
+-video games
+minecraft
+fortnite
+roblox
+call of duty
+halo
+grand theft auto
+red dead redemption
+legend of zelda
+super mario
+pokemon
+among us
+apex legends
+valorant
+overwatch
+league of legends
+dota
+counter strike
+rocket league
+fifa
+nba 2k
+madden nfl
+animal crossing
+stardew valley
+terraria
+the sims
+skyrim
+fallout
+elden ring
+dark souls
+bloodborne
+cyberpunk
+assassins creed
+far cry
+watch dogs
+battlefield
+destiny
+warframe
+genshin impact
+clash of clans
+clash royale
+subway surfers
+temple run
+angry birds
+candy crush
+plants vs zombies
+geometry dash
+brawl stars
+pubg
+free fire
+-holidays
+new years day
+valentines day
+st patricks day
+easter
+april fools day
+earth day
+mothers day
+fathers day
+independence day
+halloween
+thanksgiving
+christmas
+hanukkah
+kwanzaa
+labor day
+memorial day
+veterans day
+columbus day
+presidents day
+martin luther king day
+cinco de mayo
+diwali
+ramadan
+eid al fitr
+eid al adha
+lunar new year
+chinese new year
+hanami festival
+oktoberfest
+bastille day
+canada day
+boxing day
+good friday
+palm sunday
+ash wednesday
+passover
+rosh hashanah
+yom kippur
+holi
+navratri
+songkran festival
+vesak
+obon festival
+day of the dead
+all saints day
+all souls day
+groundhog day
+flag day
+patriots day
+-subjects
+math
+algebra
+geometry
+calculus
+statistics
+science
+biology
+chemistry
+physics
+earth science
+astronomy
+history
+world history
+us history
+geography
+government
+economics
+english
+literature
+writing
+reading
+grammar
+spelling
+vocabulary
+art
+music
+band
+choir
+theater
+drama
+dance
+physical education
+health
+computer science
+programming
+coding
+robotics
+engineering
+psychology
+sociology
+philosophy
+foreign language
+spanish
+french
+german
+latin
+journalism
+debate
+study skills
+-transportation
+car
+truck
+bus
+school bus
+train
+subway
+tram
+bicycle
+motorcycle
+scooter
+airplane
+helicopter
+boat
+ship
+ferry
+canoe
+kayak
+submarine
+taxi
+uber
+van
+pickup truck
+fire truck
+police car
+ambulance
+bullet train
+high speed train
+metro train
+cargo ship
+cruise ship
+sailboat
+jet ski
+space shuttle
+rocket
+horse carriage
+rickshaw
+golf cart
+skateboard
+roller skates
+hoverboard
+snowmobile
+tractor
+forklift
+delivery truck
+garbage truck
+tow truck
+minivan
+electric car
+-sports
+soccer
+basketball
+baseball
+football
+tennis
+golf
+hockey
+volleyball
+badminton
+table tennis
+cricket
+rugby
+boxing
+wrestling
+martial arts
+karate
+taekwondo
+judo
+swimming
+diving
+surfing
+skateboarding
+snowboarding
+skiing
+track and field
+running
+marathon
+cycling
+bmx
+gymnastics
+weightlifting
+powerlifting
+archery
+fencing
+shooting
+bowling
+pool
+snooker
+chess
+esports
+formula one
+nascar
+motocross
+triathlon
+biathlon
+handball
+water polo
+lacrosse
+softball
+curling
