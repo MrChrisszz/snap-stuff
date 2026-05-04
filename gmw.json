@@ -1,4 +1,4 @@
--animals
+-1
 dog
 cat
 lion
@@ -49,7 +49,7 @@ guinea pig
 ferret
 hedgehog
 otter
--countries
+-2
 united states
 canada
 mexico
@@ -100,7 +100,7 @@ iraq
 ukraine
 czech republic
 hungary
--objects
+-3
 chair
 table
 desk
@@ -150,7 +150,7 @@ glue
 ruler
 calculator
 camera
--food
+-4
 pizza
 burger
 hot dog
@@ -200,7 +200,7 @@ chocolate
 candy
 popcorn
 chips
--media
+-5
 movie
 tv show
 music
@@ -251,7 +251,7 @@ ebook
 newsletter
 broadcast
 channel
--video games
+-6
 minecraft
 fortnite
 roblox
@@ -301,7 +301,7 @@ geometry dash
 brawl stars
 pubg
 free fire
--holidays
+-7
 new years day
 valentines day
 st patricks day
@@ -351,7 +351,7 @@ all souls day
 groundhog day
 flag day
 patriots day
--subjects
+-8
 math
 algebra
 geometry
@@ -401,7 +401,7 @@ latin
 journalism
 debate
 study skills
--transportation
+-9
 car
 truck
 bus
@@ -450,7 +450,7 @@ garbage truck
 tow truck
 minivan
 electric car
--sports
+-10
 soccer
 basketball
 baseball
