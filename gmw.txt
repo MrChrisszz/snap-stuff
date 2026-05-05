@@ -49,6 +49,18 @@ guinea pig
 ferret
 hedgehog
 otter
+camel
+donkey
+moose
+buffalo
+leopard
+cheetah
+rhino
+hippo
+bat
+squirrel
+raccoon
+skunk
 -2
 united states
 canada
@@ -100,6 +112,14 @@ iraq
 ukraine
 czech republic
 hungary
+switzerland
+austria
+ireland
+iceland
+singapore
+malaysia
+venezuela
+cuba
 -3
 chair
 table
@@ -150,6 +170,16 @@ glue
 ruler
 calculator
 camera
+charger
+headphones
+speaker
+flashlight
+umbrella
+trash can
+laundry basket
+hanger
+notepad
+stapler
 -4
 pizza
 burger
@@ -200,57 +230,55 @@ chocolate
 candy
 popcorn
 chips
+ham
+bacon
+sausage
+turkey
+corn
+lettuce
+cucumber
+onion
+garlic
+ketchup
+mustard
+mayonnaise
 -5
-movie
-tv show
-music
-podcast
-news
-radio
-magazine
-newspaper
-comic book
-animation
-documentary
-short film
-web series
-streaming video
-live stream
-music video
-talk show
-game show
-reality show
-drama series
-action movie
-comedy movie
-horror movie
-science fiction movie
-fantasy movie
-romance movie
-thriller movie
-cartoon
-anime
-sitcom
-soap opera
-interview show
-educational video
-review video
-vlog
-blog
-article
-editorial
-press release
-trailer
-teaser
-soundtrack
-album
-single
-playlist
-audiobook
-ebook
-newsletter
-broadcast
-channel
+youtube
+netflix
+hulu
+disney plus
+amazon prime video
+hbo max
+tiktok
+instagram
+facebook
+twitter
+snapchat
+reddit
+pinterest
+linkedin
+twitch
+spotify
+apple music
+soundcloud
+pandora
+whatsapp
+messenger
+telegram
+discord
+capcut
+canva
+google drive
+gmail
+google maps
+zoom
+skype
+microsoft teams
+duolingo
+kahoot
+quizlet
+wikipedia
+roblox
 -6
 minecraft
 fortnite
@@ -302,6 +330,7 @@ brawl stars
 pubg
 free fire
 -7
+new years eve
 new years day
 valentines day
 st patricks day
@@ -323,34 +352,21 @@ columbus day
 presidents day
 martin luther king day
 cinco de mayo
-diwali
 ramadan
-eid al fitr
-eid al adha
 lunar new year
 chinese new year
-hanami festival
 oktoberfest
-bastille day
 canada day
 boxing day
 good friday
 palm sunday
 ash wednesday
 passover
-rosh hashanah
-yom kippur
-holi
-navratri
-songkran festival
-vesak
-obon festival
 day of the dead
-all saints day
-all souls day
 groundhog day
 flag day
 patriots day
+black friday
 -8
 math
 algebra
@@ -479,7 +495,6 @@ track and field
 running
 marathon
 cycling
-bmx
 gymnastics
 weightlifting
 powerlifting
@@ -493,11 +508,13 @@ chess
 esports
 formula one
 nascar
-motocross
-triathlon
 biathlon
 handball
 water polo
 lacrosse
 softball
 curling
+pickleball
+dodgeball
+kickball
+rock climbing
